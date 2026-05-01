@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int balancedString(string s) {
+        int cnt['X']{};
+        for(char c:s){
+            cnt[c]++;
+        }
+        int n=s.size(),m=n/4;
+        if(cnt['Q']==m&&cnt['W']==m&&cnt['E']==m&&cnt['R']==m){
+            return 0;
+        }
+
+        int ans=n,left=0;
+        for(int i=0;i<n;i++){
+            cnt[s[i]]--;
+            while(cnt['Q']<=m&&cnt['W']<=m&&cnt['E']<=m&&cnt['R']<=m){
+                ans=min(ans,i-left+1);
+                cnt[s[left]]++;
+                left++;
+            }
+        }
+ return ans;
+
+    }
+};
