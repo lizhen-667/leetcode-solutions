@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int totalFruit(vector<int>& fruits) {
+        int left=0;
+        set<int> s;
+        int maxium=0;
+
+        for(int i=0;i<fruits.size();i++){
+           s.insert(fruits[i]);
+           while(s.size()>2){
+            s.erase(fruits[left]);
+            left++;
+           }
+           maxium=max(maxium,i-left+1);
+
+        }
+
+        return maxium;
+
+    }
+};
+
+//最初的思路 是由题意直接设置set容器 记录水果种类数 一旦超过2 就让left++ 然后erase掉set[left]
+//但是我忽略了每种水果的数量 每一个left指向的都是窗口最左边的那颗水果树 fruits[i]表示的是第i棵水果树的种类

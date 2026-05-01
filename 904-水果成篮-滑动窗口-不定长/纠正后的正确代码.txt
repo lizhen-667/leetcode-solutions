@@ -1,0 +1,26 @@
+class Solution {
+public:
+    int totalFruit(vector<int>& fruits) {
+        int left=0;
+        unordered_map<int,int> m;
+        int maxium=0;
+
+        for(int i=0;i<fruits.size();i++){
+           m[fruits[i]]++;
+        
+           while(m.size()>2){
+           m[fruits[left]]--;
+           if(m[fruits[left]]==0){
+            m.erase(fruits[left]);
+           }
+
+            left++;
+           }
+           maxium=max(maxium,i-left+1);
+
+        }
+
+        return maxium;
+
+    }
+};
