@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "322a3d5955b4a72f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d26cc65343d8a321",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "375bb2b44d5e40f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "题单-3-常用数据结构/前缀和/基础-1749（前缀和+子数组和的绝对值的最大值）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础-1749（前缀和+子数组和的绝对值的最大值）"
+            }
+          },
+          {
+            "id": "c77c55145d11e11a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "题单-3-常用数据结构/前缀和/基础-53（前缀和+枚举左维护右)&&枚举-121.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础-53（前缀和+枚举左维护右)&&枚举-121"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de4cc8a8c9c1bb09",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed9457ce10ac1e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2545e84e6825a635",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "8d98f83ffe999865",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "7db5e2a31df1655f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0d28abca411e7065",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a2b86bd424c1ee0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edab50d112e2384e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "题单-3-常用数据结构/基础-624.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "基础-624 的反向链接列表"
+            }
+          },
+          {
+            "id": "375ef50b90e29418",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "题单-3-常用数据结构/基础-1930(枚举首尾).md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "6c847879c7439dd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "cee83b25532835b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f90ccb5bcd7965af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "leetcode_题目分析/1234. 替换子串得到平衡字符串-求最短/源码.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "源码 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "c77c55145d11e11a",
+  "lastOpenFiles": [
+    "题单-3-常用数据结构/前缀和/基础-1749（前缀和+子数组和的绝对值的最大值）.md",
+    "题单-3-常用数据结构/前缀和/基础-1310（异或+vector-reserve函数）.md",
+    "题单-3-常用数据结构/前缀和/基础-53（前缀和+枚举左维护右)&&枚举-121.md",
+    "题单-3-常用数据结构/前缀和/基础-3152 （前缀和＋01数组判断奇偶性）.md",
+    "算法题-方法论.md",
+    "题单-3-常用数据结构/前缀和/前缀和基础讲解.md",
+    "滑动窗口&二分算法/275.二分求最大.md",
+    "滑动窗口&二分算法/1870.二分求最大.md",
+    "滑动窗口&二分算法/2226.二分求最大.md",
+    "滑动窗口&二分算法/2982.二分求最大.md",
+    "滑动窗口&二分算法/3143.二分间接值.md",
+    "滑动窗口&二分算法/3453.分割正方形.md",
+    "滑动窗口&二分算法/3824. 减小数组使其满足条件的最小 K 值.md",
+    "README.md",
+    "题单-3-常用数据结构/未命名.md",
+    "题单-3-常用数据结构/前缀和/基础-1310（异或+vector-reserve函数）.md.tmp.7480.e9a0d1f11a0c",
+    "题单-3-常用数据结构/枚举/基础-1930(枚举首尾).md",
+    "题单-3-常用数据结构/枚举/基础-3761(枚举右，维护左)（数字反转，数字提取）.md",
+    "题单-3-常用数据结构/枚举/基础-2364（枚举右，维护左）（式子转换，正难则反）.md",
+    "题单-3-常用数据结构/枚举/基础-2001(枚举右，维护左，gcd,hash函数).md",
+    "题单-3-常用数据结构/前缀和.md",
+    "题单-3-常用数据结构/前缀和",
+    "题单-3-常用数据结构/基础-3128（枚举中间）.md",
+    "题单-3-常用数据结构/枚举/缺乏_极端-退化_输入的自测习惯.md",
+    "题单-3-常用数据结构/枚举/容器unordered_map介绍.md",
+    "题单-3-常用数据结构/枚举/基础-624  (枚举右，维护左).md",
+    "题单-3-常用数据结构/枚举/基础-3979(枚举右，维护左).md",
+    "题单-3-常用数据结构/枚举/基础-3805(枚举右，维护左）（归一化）.md",
+    "题单-3-常用数据结构/枚举",
+    "题单-3-常用数据结构",
+    "屏幕截图 2026-06-29 104243.png",
+    "Pasted image 20260626152942.png",
+    "Pasted image 20260626153106.png",
+    "Pasted image 20260629104812.png",
+    "未命名.base",
+    "未命名.canvas",
+    "未命名 3.base",
+    "未命名 1.base",
+    "未命名 2.base",
+    "Pasted image 20260626152953.png",
+    "web后端笔记"
+  ]
+}
